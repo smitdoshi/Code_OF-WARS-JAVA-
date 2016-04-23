@@ -1,2 +1,4 @@
 # Code_OF-WARS-JAVA-
-Repository to solve the Question from Code of Wars
+## code done by me.
+Solution to the questions.
+
